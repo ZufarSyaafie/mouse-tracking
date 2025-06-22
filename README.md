@@ -28,11 +28,13 @@ Sistem ini dikembangkan menggunakan Python dengan pustaka MediaPipe untuk deteks
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demonstrasi Video
 
 Lihat demonstrasi cara kerja aplikasi di bawah ini:
 
-[![Demo Video](https://img.shields.io/badge/▶️-Tonton%20Demo-red?style=for-the-badge)](image/Demo.mp4)
+https://github.com/user-attachments/assets/8445d3c2-54b4-4640-a894-c10c6f36a51b
+
+> **Video menunjukkan semua fitur utama aplikasi termasuk gesture tracking, kontrol mouse, dan berbagai aksi klik.**
 
 ---
 
@@ -90,12 +92,6 @@ source venv/bin/activate
 
 ```bash
 pip install opencv-python mediapipe pyautogui pynput numpy
-```
-
-Atau install menggunakan requirements file:
-
-```bash
-pip install -r requirements.txt
 ```
 
 ### 4. Jalankan Aplikasi
