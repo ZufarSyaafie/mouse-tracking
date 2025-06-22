@@ -32,7 +32,7 @@ Sistem ini dikembangkan menggunakan Python dengan pustaka MediaPipe untuk deteks
 
 Lihat demonstrasi cara kerja aplikasi di bawah ini:
 
-[![Demo Video](https://img.shields.io/badge/▶️-Tonton%20Demo-red?style=for-the-badge)](image/demo.mp4)
+[![Demo Video](https://img.shields.io/badge/▶️-Tonton%20Demo-red?style=for-the-badge)](image/Demo.mp4)
 
 ---
 
