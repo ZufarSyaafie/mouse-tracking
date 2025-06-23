@@ -72,7 +72,7 @@ https://github.com/user-attachments/assets/8445d3c2-54b4-4640-a894-c10c6f36a51b
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/mouse-tracking.git
+git clone https://github.com/ZufarSyaafie/mouse-tracking.git
 cd mouse-tracking
 ```
 
@@ -88,6 +88,13 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
+atau dengan conda
+
+```bash
+conda create venv python=3.10
+conda activate venv
+```
+
 ### 3. Install Dependencies
 
 ```bash
@@ -96,21 +103,11 @@ pip install opencv-python mediapipe pyautogui pynput numpy
 
 ### 4. Jalankan Aplikasi
 
-```bash
-python mouse_tracking.py
-```
-
-Atau jalankan melalui Jupyter Notebook:
-
-```bash
-jupyter notebook mouse-tracking.ipynb
-```
-
 ---
 
 ## 📖 Cara Penggunaan
 
-1. **Jalankan Aplikasi**: Eksekusi script Python atau buka Jupyter Notebook
+1. **Jalankan Aplikasi**: Buka Jupyter Notebook
 2. **Posisikan Tangan**: Letakkan tangan di depan kamera dengan jarak sekitar 30-50 cm
 3. **Kalibrasi**: Pastikan tangan terdeteksi dengan baik (akan muncul garis landmark)
 4. **Mulai Kontrol**: Gunakan berbagai gesture untuk mengontrol mouse
